@@ -1,0 +1,4 @@
+(def dev-serv (run-dev))
+(require pedestal-interceptors.service :reload)
+(require 'pedestal-interceptors.service :reload)
+exit
