@@ -1,3 +1,3 @@
-Inspired by https://stuarth.github.io/clojure/pedestal-browser-repl/
+Inspired by [this](https://stuarth.github.io/clojure/pedestal-browser-repl/)
 
-Full details at http://subhash.github.io/pedestal/2015/06/11/pedestal-interceptors.html
+Full details [here](http://subhash.github.io/pedestal/2015/06/11/pedestal-interceptors.html)
